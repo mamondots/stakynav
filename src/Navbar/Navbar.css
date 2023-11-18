@@ -1,0 +1,17 @@
+.first-nav{
+    padding:12px 20px;
+    background-color:red;
+    color:#fff;
+}
+.second-nav{
+    padding:12px 20px;
+    background-color:rgb(0, 0, 255);
+    color:#fff;
+    position: sticky;
+    top:0;
+}
+.home{
+    background-color: black;
+    height:200vh;
+    width:100%;
+}

@@ -1,0 +1,19 @@
+.nav-bar{
+    padding:8px 0;
+    background-color:red;
+}
+nav {
+    /* Your default navigation styles */
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* Your sticky navigation styles */
+  }
+  .top{
+    padding:8px 0;
+    background-color:rgb(64, 0, 255);
+  }
